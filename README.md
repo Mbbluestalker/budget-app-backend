@@ -1,4 +1,4 @@
-#Budget Tracker
+# Budget Tracker
 
 This app allows you to track your spending and manage your budget. With easy-to-use tools for entering and categorizing your transactions, you can quickly see where your money is going and make informed decisions about your spending.
 
